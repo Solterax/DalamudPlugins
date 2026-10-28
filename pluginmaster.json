@@ -30,8 +30,8 @@
     "Name": "Magityper",
     "InternalName": "Magityper",
     "RepoUrl": "https://github.com/Solterax/Magityper",
-    "AssemblyVersion": "0.1.0.0",
-    "Description": "Reads selected enemy nameplate or UI text and types it into a bound, focused game text input. Keybound Brawler source mapping requires in-game verification.",
+    "AssemblyVersion": "0.1.1.0",
+    "Description": "Automatically reads observed KTGEWord enemy prompt slots in Keybound Brawler and types into a selected, focused game input. Input selection is required; end-to-end typing remains unverified.",
     "Punchline": "Read the prompt. Type the words.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -43,8 +43,8 @@
     "LoadPriority": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/Solterax/Magityper/releases/download/v0.1.0/Magityper-plugin.zip",
-    "DownloadLinkUpdate": "https://github.com/Solterax/Magityper/releases/download/v0.1.0/Magityper-plugin.zip",
-    "LastUpdate": "1793181600"
+    "DownloadLinkInstall": "https://github.com/Solterax/Magityper/releases/download/v0.1.1/Magityper-plugin.zip",
+    "DownloadLinkUpdate": "https://github.com/Solterax/Magityper/releases/download/v0.1.1/Magityper-plugin.zip",
+    "LastUpdate": "1793191351"
   }
 ]
