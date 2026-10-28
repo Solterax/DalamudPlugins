@@ -11,7 +11,6 @@ In game, open `/xlsettings`, go to **Experimental → Custom Plugin Repositories
 | Plugin | Description | Source and releases |
 | --- | --- | --- |
 | GearScout | Build gear and glam lists, track owned and missing pieces, and highlight missing loot. | [GearScout](https://github.com/Solterax/GearScout) |
-| Magityper | Read enemy prompts and type into a selected game text box. Prototype; in-game mapping and verification required. | [Magityper](https://github.com/Solterax/Magityper) |
 
 If you already use the GearScout-specific feed, replace that URL with the shared URL. GearScout keeps its existing internal name, releases and local configuration. The old feed remains available for existing users.
 
