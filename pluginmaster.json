@@ -24,5 +24,27 @@
     "DownloadLinkInstall": "https://github.com/Solterax/GearScout/releases/download/v0.9.0/GearScout-plugin.zip",
     "DownloadLinkUpdate": "https://github.com/Solterax/GearScout/releases/download/v0.9.0/GearScout-plugin.zip",
     "LastUpdate": "1793178243"
+  },
+  {
+    "Author": "Solterax",
+    "Name": "Magityper",
+    "InternalName": "Magityper",
+    "RepoUrl": "https://github.com/Solterax/Magityper",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Reads selected enemy nameplate or UI text and types it into a bound, focused game text input. Keybound Brawler source mapping requires in-game verification.",
+    "Punchline": "Read the prompt. Type the words.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "typing",
+      "gold saucer",
+      "keybound brawler"
+    ],
+    "LoadPriority": 0,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/Solterax/Magityper/releases/download/v0.1.0/Magityper-plugin.zip",
+    "DownloadLinkUpdate": "https://github.com/Solterax/Magityper/releases/download/v0.1.0/Magityper-plugin.zip",
+    "LastUpdate": "1793181600"
   }
 ]
