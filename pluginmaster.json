@@ -1,0 +1,28 @@
+[
+  {
+    "Author": "Solterax",
+    "Name": "GearScout",
+    "InternalName": "GearScout",
+    "AssemblyVersion": "0.9.0.0",
+    "Description": "Build gear sets in game with slot and job filtered item search, or import XIVGear links. Check gear, materia and saved storage ownership, and highlight wanted missing loot.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "gear",
+      "xivgear",
+      "inventory"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Track your XIVGear sets for your current job.",
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/Solterax/GearScout",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/Solterax/GearScout/releases/download/v0.9.0/GearScout-plugin.zip",
+    "DownloadLinkUpdate": "https://github.com/Solterax/GearScout/releases/download/v0.9.0/GearScout-plugin.zip",
+    "LastUpdate": "1793178243"
+  }
+]

@@ -1,0 +1,36 @@
+name: Refresh plugin catalogue
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17,47 * * * *'
+  push:
+    branches: [main]
+    paths:
+      - sources.json
+      - '*Catalogue.ps1'
+      - .github/workflows/refresh.yml
+permissions:
+  contents: write
+concurrency:
+  group: refresh-catalogue
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check merge behavior
+        shell: pwsh
+        run: ./Test-Catalogue.ps1
+      - name: Refresh plugin entries
+        shell: pwsh
+        run: ./Refresh-Catalogue.ps1
+      - name: Commit updated catalogue
+        shell: bash
+        run: |
+          git add pluginmaster.json
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Refresh plugin catalogue'
+          git push
