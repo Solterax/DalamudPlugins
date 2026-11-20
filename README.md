@@ -11,6 +11,7 @@ In game, open `/xlsettings`, go to **Experimental → Custom Plugin Repositories
 | Plugin | Description | Source and releases |
 | --- | --- | --- |
 | GearScout | Build gear and glam lists, track owned and missing pieces, and highlight missing loot. | [GearScout](https://github.com/Solterax/GearScout) |
+| Saddlebag Manager | Deposit and withdraw items in bulk between inventory and the Chocobo Saddlebag. | [Saddlebag Manager](https://github.com/Solterax/SaddlebagManager) |
 
 If you already use the GearScout-specific feed, replace that URL with the shared URL. GearScout keeps its existing internal name, releases and local configuration. The old feed remains available for existing users.
 

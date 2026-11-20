@@ -24,5 +24,29 @@
     "DownloadLinkInstall": "https://github.com/Solterax/GearScout/releases/download/v0.15.0/GearScout-plugin.zip",
     "DownloadLinkUpdate": "https://github.com/Solterax/GearScout/releases/download/v0.15.0/GearScout-plugin.zip",
     "LastUpdate": "1795086599"
+  },
+  {
+    "Author": "Solterax",
+    "Name": "Saddlebag Manager",
+    "InternalName": "SaddlebagManager",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Deposit or withdraw items in bulk, merge compatible stacks, and optionally include the premium saddlebag.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Solterax/SaddlebagManager",
+    "Tags": [
+      "inventory",
+      "saddlebag",
+      "chocobo"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Move items in bulk between your inventory and Chocobo Saddlebag.",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Solterax/SaddlebagManager/releases/download/v0.1.0/SaddlebagManager-plugin.zip",
+    "DownloadLinkUpdate": "https://github.com/Solterax/SaddlebagManager/releases/download/v0.1.0/SaddlebagManager-plugin.zip",
+    "LastUpdate": "1795203192"
   }
 ]
