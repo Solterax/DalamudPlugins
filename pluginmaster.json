@@ -29,7 +29,7 @@
     "Author": "Solterax",
     "Name": "Saddlebag Manager",
     "InternalName": "SaddlebagManager",
-    "AssemblyVersion": "0.3.0.0",
+    "AssemblyVersion": "0.3.1.0",
     "Description": "Deposit or withdraw items in bulk, merge compatible stacks, and optionally include the premium saddlebag.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Solterax/SaddlebagManager",
@@ -45,8 +45,8 @@
     "LoadPriority": 0,
     "Punchline": "Move items in bulk between your inventory and Chocobo Saddlebag.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Solterax/SaddlebagManager/releases/download/v0.3.0/SaddlebagManager-plugin.zip",
-    "DownloadLinkUpdate": "https://github.com/Solterax/SaddlebagManager/releases/download/v0.3.0/SaddlebagManager-plugin.zip",
-    "LastUpdate": "1795267629"
+    "DownloadLinkInstall": "https://github.com/Solterax/SaddlebagManager/releases/download/v0.3.1/SaddlebagManager-plugin.zip",
+    "DownloadLinkUpdate": "https://github.com/Solterax/SaddlebagManager/releases/download/v0.3.1/SaddlebagManager-plugin.zip",
+    "LastUpdate": "1795267843"
   }
 ]
