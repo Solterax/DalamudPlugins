@@ -74,5 +74,25 @@
     "DownloadLinkInstall": "https://github.com/Solterax/SubMaterialNQ/releases/download/v0.1.0/SubMaterialNQ-plugin.zip",
     "DownloadLinkUpdate": "https://github.com/Solterax/SubMaterialNQ/releases/download/v0.1.0/SubMaterialNQ-plugin.zip",
     "LastUpdate": "1795350821"
+  },
+  {
+    "Author": "Liza Carvelli",
+    "Name": "Workshoppa",
+    "InternalName": "Workshoppa",
+    "AssemblyVersion": "9.2.1.0",
+    "Description": "Helps manage company workshop projects and turn in materials.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Solterax/Workshoppa",
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Better Company Workshop Turn-In",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Solterax/Workshoppa/releases/download/v9.2.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Solterax/Workshoppa/releases/download/v9.2.1/latest.zip",
+    "IsTestingExclusive": false,
+    "IsHide": false
   }
 ]
