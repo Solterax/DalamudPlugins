@@ -51,32 +51,6 @@
   },
   {
     "Author": "Solterax",
-    "Name": "SubMaterialNQ",
-    "InternalName": "SubMaterialNQ",
-    "AssemblyVersion": "0.1.0.0",
-    "Description": "Lower the quality of whitelisted items in your personal inventory.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Solterax/SubMaterialNQ",
-    "Tags": [
-      "inventory",
-      "submarine",
-      "crafting"
-    ],
-    "DalamudApiLevel": 15,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "Convert whitelisted submarine materials to normal quality.",
-    "AcceptsFeedback": true,
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/Solterax/SubMaterialNQ/releases/download/v0.1.0/SubMaterialNQ-plugin.zip",
-    "DownloadLinkUpdate": "https://github.com/Solterax/SubMaterialNQ/releases/download/v0.1.0/SubMaterialNQ-plugin.zip",
-    "LastUpdate": "1795350821"
-  },
-  {
-    "Author": "Solterax",
     "Name": "Workshoppa",
     "InternalName": "Workshoppa",
     "AssemblyVersion": "9.8.2.0",
@@ -94,5 +68,33 @@
     "DownloadLinkUpdate": "https://github.com/Solterax/Workshoppa/releases/download/v9.8.2/latest.zip",
     "IsTestingExclusive": false,
     "IsHide": false
-  }
+  },
+  [
+    {
+      "Author": "Solterax",
+      "Name": "SubMaterialNQ",
+      "InternalName": "SubMaterialNQ",
+      "AssemblyVersion": "0.1.1.0",
+      "Description": "Lower the quality of whitelisted items in your personal inventory.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/Solterax/SubMaterialNQ",
+      "Tags": [
+        "inventory",
+        "submarine",
+        "crafting"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "Punchline": "Convert whitelisted submarine materials to normal quality.",
+      "AcceptsFeedback": true,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://github.com/Solterax/SubMaterialNQ/releases/download/v0.1.1/SubMaterialNQ-plugin.zip",
+      "DownloadLinkUpdate": "https://github.com/Solterax/SubMaterialNQ/releases/download/v0.1.1/SubMaterialNQ-plugin.zip",
+      "LastUpdate": "1795384838"
+    }
+  ]
 ]
