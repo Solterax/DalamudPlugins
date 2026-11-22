@@ -48,5 +48,31 @@
     "DownloadLinkInstall": "https://github.com/Solterax/SaddlebagManager/releases/download/v0.3.2/SaddlebagManager-plugin.zip",
     "DownloadLinkUpdate": "https://github.com/Solterax/SaddlebagManager/releases/download/v0.3.2/SaddlebagManager-plugin.zip",
     "LastUpdate": "1795270188"
+  },
+  {
+    "Author": "Solterax",
+    "Name": "SubMaterialNQ",
+    "InternalName": "SubMaterialNQ",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Lower the quality of whitelisted items in your personal inventory.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Solterax/SubMaterialNQ",
+    "Tags": [
+      "inventory",
+      "submarine",
+      "crafting"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Convert whitelisted submarine materials to normal quality.",
+    "AcceptsFeedback": true,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/Solterax/SubMaterialNQ/releases/download/v0.1.0/SubMaterialNQ-plugin.zip",
+    "DownloadLinkUpdate": "https://github.com/Solterax/SubMaterialNQ/releases/download/v0.1.0/SubMaterialNQ-plugin.zip",
+    "LastUpdate": "1795350821"
   }
 ]
