@@ -79,7 +79,7 @@
     "Author": "Solterax",
     "Name": "Workshoppa",
     "InternalName": "Workshoppa",
-    "AssemblyVersion": "9.8.2.0",
+    "AssemblyVersion": "9.8.3.0",
     "Description": "Helps manage company workshop projects and turn in materials.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Solterax/Workshoppa",
@@ -90,8 +90,8 @@
     "LoadPriority": 0,
     "Punchline": "Better Company Workshop Turn-In",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Solterax/Workshoppa/releases/download/v9.8.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Solterax/Workshoppa/releases/download/v9.8.2/latest.zip",
+    "DownloadLinkInstall": "https://github.com/Solterax/Workshoppa/releases/download/v9.8.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Solterax/Workshoppa/releases/download/v9.8.3/latest.zip",
     "IsTestingExclusive": false,
     "IsHide": false
   }
